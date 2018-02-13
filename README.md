@@ -1,6 +1,6 @@
 # TabCardRecycler
 
-:octocat: 💥 :neckbeard: Implement RecyclerView with CardView rows in a Fragment with TabLayout
+:octocat: 💥 :neckbeard: Quick guide to implementing RecyclerView with CardView rows in a Fragment with TabLayout
 
 Image
 -----
