@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#0291d8</color>
-    <color name="colorPrimaryDark">#2c384a</color>
+    <color name="colorPrimary">#2c384a</color>
+    <color name="colorPrimaryDark">#0291d8</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="firebaselifebrown">#fb8f00</color>
+
 
 
 </resources>
